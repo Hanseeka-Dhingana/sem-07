@@ -1,4 +1,4 @@
-<img width="1500" height="614" alt="image" src="https://github.com/user-attachments/assets/667471ea-2d2d-4f8f-b76b-6cf3ba812dae" /># Introduction to Organization Behaviour 
+# Introduction to Organization Behaviour 
 Organization + Behaviour
 
 ### Organization 
@@ -14,58 +14,72 @@ OB is field of study that invetigate the impact of individual, group and structu
 
 OB is an important topic for anyone who works or who will eventually working an organization, which is the case for the most people.
 
-## It studies human behaviour at:**
+### It studies human behaviour at:**
 - Individual Level
 - Group Level
 - Organization Level
 
+<br>   
 
-### Individual Behaviour
-- The way in which one acts or reacts
-- Says or do especially towards others.
-  *Example*
-  Wishing your parents or teachers vs. not wishing.
+## The Organizational Behaviour Model  
+A **model** means a **simplified picture of reality** — it helps us understand how different things (like people, teams, and organizations) are connected.
+In OB, this model has **three main parts** and **three levels of analysis**.
 
-  This behaviour caused by different factors.
+### **Three Main Parts of the OB Model**
 
-#### Two types of Behaviour
-##### Overt Behaviour
-  - Easily Obervable.
-  E.g: Way of talking.
-  
-##### Covert Behaviour
- - Not easily observable
-  E.g: feelings, attitude, etc.
+| Part          | Meaning                                                | Example                                                                          |
+| ------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| **Inputs**    | The basic factors or variables that start the process. | A person’s **personality**, team structure, or company culture.                  |
+| **Processes** | The actions or things people do with those inputs.     | How people **communicate**, **make decisions**, or **lead others**.              |
+| **Outcomes**  | The results or consequences of those processes.        | Things like **job performance**, **team success**, or **organizational growth**. |
+
+So, in simple terms:
+
+> **Inputs → Processes → Outcomes**
+<img width="1467" height="1099" alt="image" src="https://github.com/user-attachments/assets/9628a63a-8d03-4f84-bb50-fd49261bd24f" />
+
+<br>  
+
+### **Three Levels of Analysis**
+OB looks at behavior at **three levels** from individuals to the whole organization.
+
+#### 1.**Individual Level**
+Focus: One person’s behavior at work.
+* **Inputs:** Personality, values, diversity.
+* **Processes:** Motivation, perception, decision making, emotions, moods.
+* **Outcomes:** Job performance, satisfaction, stress, and absenteeism.
+
+**Example:**
+An employee who is hardworking (input) feels motivated (process) and performs well at work (outcome).
 
 
-#### Factors of Individual Behaviour  
-some factors lie within individual.    
-some lie in the situations with which they interact.  
+#### **Group Level**
+Focus: How people behave when working in teams.
+* **Inputs:** Group structure, team roles, responsibilities.
+* **Processes:** Communication, leadership, power, politics, conflict, and negotiation.
+* **Outcomes:** Team performance and group cohesion.
 
-##### Individual Variables
- **A. Physiological Variables**  
-- Intelligence
-- Age
-- Physical abilities
-- Gender
-  
- **B. social-psycological variables** 
-- Personality
-- Perception
-- Learning
-- Attitudes
-- Emotional Intelligence
-  
-##### Situational Variables  
-**A. Organizational Variables** 
-- Organizational Structure
-- Organizational Process
-- Organizational Culture
+**Example:**
+A team with clear roles and open communication (inputs and processes) will perform better together (outcome).
 
-**B. Job Variables**  
-- Nature of Job
-- Work Environment
+#### **Organizational Level**
+Focus: The organization as a whole.
+* **Inputs:** Structure and culture of the organization.
+* **Processes:** Human resource management, organizational change practices.
+* **Outcomes:** Productivity, growth, and long-term survival.
 
+**Example:**
+A company with a strong, positive culture (input) and fair HR practices (process) will be more productive and successful (outcome).
+
+
+### **Simple Example to Remember:**
+Imagine a company:
+* Hires positive, skilled people (**Input**)
+* Motivates them and builds teamwork (**Process**)
+* Achieves high performance and profits (**Outcome**)
+That’s how the **OB model** works in real life!
+
+<br>  
 
 ## Who’s Who in the World of Work 
 The main people or roles that exist in any workplace or organization.  
@@ -83,6 +97,7 @@ An organization is a structured group of people who work together to achieve com
 It continues over time, not just for one task.
 *Example:* A company, a school, a hospital, or even a charity.     
 
+<br>  
 
 ## Management Activities/Functions
 Management means getting things done through other people by planning, organizing, leading, and controlling their efforts so the organization can achieve its goals effectively and efficiently.    
@@ -161,6 +176,7 @@ Mintzberg grouped these roles into **three main categories**:
 | **Resource Allocator**  | **Distributes resources** (money, people, time) to different tasks.             | Approving budgets or assigning work.    |
 | **Negotiator**          | **Represents the organization** in important negotiations.                      | Bargaining with suppliers or employees. |
 
+<br>  
 
 ## The Manager ’s Skills
 In general, most successful managers have a strong combination of technical, interperonal, conceptual, and diagnostic skills. Management skills impact organizational behaviour and success in profoud ways.      
@@ -185,6 +201,7 @@ A manager with strong conceptual skills is able to see the **big picture**. That
 *Example:*
 Understanding how marketing, finance, and production departments affect each other.
 
+<br>  
 
 ## Effective VS Successful Manager
 
@@ -219,6 +236,9 @@ A **successful manager** is someone who **moves up quickly in the organization**
 | **Outcome**             | Team performs well and organization benefits      | Manager’s career grows faster                  |
 
 
+<img width="1500" height="614" alt="image" src="https://github.com/user-attachments/assets/667471ea-2d2d-4f8f-b76b-6cf3ba812dae" />
+
+<br>  
 
 ## **Complementing Intuition with Systematic Study**
 ### 🔍 **1. What It Means**
@@ -255,40 +275,33 @@ So, **the best approach** is to **combine both**:
 * Use **systematic study and EBM** to **verify** and **support** those insights with facts.
 
 
+<br>   
+
 ## Identify the major behavioral science disciplines that contribute to OB
 This is an important topic in **Organizational Behaviour (OB)** because OB is an **interdisciplinary field**, meaning it takes ideas and research from different behavioral sciences to understand human behavior at work.
 
 ### 🧠 1. **Psychology**
-➤ Meaning:
-Psychology is the **study of human behavior and mental processes** — how people think, feel, and act as individuals.
-➤ Contribution to OB:
-Psychology helps us understand **individual behavior** in organizations.
+➤ **Meaning:** Psychology is the **study of human behavior and mental processes** — how people think, feel, and act as individuals.   
+➤ **Contribution to OB:** Psychology helps us understand **individual behavior** in organizations.   
 📘 *Focus level: Individual.*
 
 
 ### 👥 2. **Social Psychology**
 
- ➤ Meaning:
-Social psychology is the study of **how people influence and interact with one another** — it’s a bridge between psychology and sociology.
-➤ Contribution to OB:
-Social psychology helps us understand **group behavior** and **team dynamics** in organizations.
+➤ **Meaning:** Social psychology is the study of **how people influence and interact with one another**. It’s a bridge between psychology and sociology.   
+➤ **Contribution to OB:** Social psychology helps us understand **group behavior** and **team dynamics** in organizations.   
 📘 *Focus level: Group.*
 
 
 ### 🏢 3. **Sociology**
-➤ Meaning:
-Sociology studies **how people behave in social systems or organizations** — like how social structures, culture, and relationships affect behavior.
-➤ Contribution to OB:
-Sociology helps us understand the **organizational system as a whole** — its structure, culture, and environment.
-
+➤ **Meaning:** Sociology studies **how people behave in social systems or organizations**, like how social structures, culture, and relationships affect behavior.  
+➤**Contribution to OB:** Sociology helps us understand the **organizational system as a whole**, its structure, culture, and environment.   
 📘 *Focus level: Organization.*
 
 
 ### 🌍 4. **Anthropology**
- ➤ Meaning:
-Anthropology studies **people and their cultures**, including values, beliefs, and traditions — often across societies.
-➤ Contribution to OB:
-Anthropology helps managers understand **differences in work culture and behavior** in **global or multicultural organizations**.
+ ➤ **Meaning:** Anthropology studies **people and their cultures**, including values, beliefs, and traditions often across societies.  
+➤ **Contribution to OB:** Anthropology helps managers understand **differences in work culture and behavior** in **global or multicultural organizations**.    
 📘 *Focus level: Culture and Environment.*
 
 ### 🧩 Summary Table
@@ -301,17 +314,10 @@ Anthropology helps managers understand **differences in work culture and behavio
 | **Anthropology**      | Culture/Environment | Cross-cultural behavior, organizational culture |
 
 
-
+<br>  
 
 ## There Are Few Absolutes in OB
-
-### 📘 **Meaning:**
-
-In **physical sciences** (like physics or chemistry), laws are **universal and consistent** — for example, gravity works the same way everywhere.
-
-But in **Organizational Behaviour**, we study **people**, and people are **not all the same**.
-So, there are **no fixed or absolute laws** in OB that apply equally to everyone and every situation.
-
+In **physical sciences** (like physics or chemistry), laws are **universal and consistent**. For example, gravity works the same way everywhere. But in **Organizational Behaviour**, we study **people**, and people are **not all the same**. So, there are **no fixed or absolute laws** in OB that apply equally to everyone and every situation.
 
 ### 🧠 **Why?**
 Because:
@@ -320,118 +326,88 @@ Because:
 * So, the **same rule or strategy** may not work for everyone.
 
 ### 🧍 Example:
-
 * You may act **calm and formal** in a **job interview**,
   but **relaxed and casual** with **friends**.
   → Same person, **different behavior** in different situations.
 
 ### ⚖️ **The Contingency Approach**
+The Contingency Approach means there is no single best way to manage people or solve problems. What works in one situation may not work in another it depends on the situation and the people involved.
 
-To handle this, OB uses what’s called the **contingency approach**.
-> It means: “The best way to behave or manage **depends on the situation**.”
-
-So instead of saying:
-
-> “X always causes Y,”
-> we say:
-> “X causes Y **only when Z condition exists**.”
-
-
-### 💼 Example:
-
-* **General Effect:** Money motivates people.
-* **Contingency:** But *not everyone* is motivated by money.
-
-  * Some value **recognition**,
-  * Some value **flexible work**,
-  * Some value **growth opportunities**.
-
-So, managers must understand **who** and **when** before applying a rule.
+*Example:*
+Imagine you are a manager of two teams:
+- Team A is full of experienced workers who know their job well.
+- Team B is made up of new employees who need guidance.
+If you use the same leadership style for both teams, it may not work well.
+- With Team A: You can give freedom — they work better when trusted.
+- With Team B: You should give more instructions and support they need direction.
+  
+So, your management style depends on the team this is the Contingency Approach.
 
 
-
+<br>  
 
 ##  **Manager’s Challenges and Opportunities in Applying OB Concepts**
-
 Organizational Behaviour helps managers **understand, predict, and influence** employee behavior. But applying these ideas in the **real world** is not always easy — it comes with **challenges** and **opportunities**.
 
-### ⚠️ **1. Responding to Economic Pressure**
-
-**🔹 Challenge:**
-
+### **1. Responding to Economic Pressure**
+**Challenge:**  
 * During **economic downturns** or **job cuts**, employees feel **insecure and stressed**.
 * Managers must maintain **motivation and trust** even with limited resources.
-
-**🔹 Opportunity:**
+  
+**Opportunity:**
 * Managers can use OB concepts like **employee engagement, fair treatment, and communication** to keep morale high.
 
-### 🌍 **2. Responding to Globalization**
-**🔹 Challenge:**
+### **2. Responding to Globalization**
+**Challenge:**
 * Managers now handle **diverse teams** across countries and cultures.
 * Cultural differences can lead to **communication gaps** and **misunderstandings**.
-  
-**🔹 Opportunity:**
+
+**Opportunity:**
 * Apply OB to build **cross-cultural understanding**, **inclusive teamwork**, and **global leadership skills**.
 
-
-### 👥 **3. Managing Workforce Diversity**
-
-**🔹 Challenge:**
+### **3. Managing Workforce Diversity**
+**Challenge:**
 * Today’s workforce includes people of **different ages, genders, cultures, and backgrounds**.
 * Diversity can cause **conflicts or bias** if not handled properly.
-
-**🔹 Opportunity:**
+    
+**Opportunity:**
 * OB helps managers **value diversity**, **reduce discrimination**, and **use differences as strengths** for creativity and innovation.
 
-
-### 🧠 **4. Improving Quality and Productivity**
-
-**🔹 Challenge:**
+### **4. Improving Quality and Productivity**
+**Challenge:**
 * Pressure to increase output while reducing costs.
 * Employees may resist change or new methods.
-**🔹 Opportunity:**
-
+     
+**Opportunity:**
 * Use OB techniques such as **motivation theories**, **job design**, and **teamwork** to improve efficiency and satisfaction.
-
----
-
-### 💻 **5. Managing Technological Change**
-
-**🔹 Challenge:**
+  
+### **5. Managing Technological Change**
+**Challenge:**
 * Rapid technology growth changes how people work (AI, automation, remote work).
 * Employees may feel **stressed or outdated**.
-
-**🔹 Opportunity:**
+    
+**Opportunity:**
 * Apply OB by **training**, **supporting adaptation**, and promoting a **learning culture**.
 
-
-### 🏠 **6. Working with Remote and Virtual Teams**
-**🔹 Challenge:**
+### **6. Working with Remote and Virtual Teams**
+**Challenge:**
 * Harder to build trust, monitor performance, and keep engagement high online.
-
-**🔹 Opportunity:**
+    
+**Opportunity:**
 * OB concepts help managers **improve communication**, **build trust virtually**, and **motivate remote employees**.
 
-
-
-## 💬 **7. Improving Ethical Behavior**
-
-**🔹 Challenge:**
-
+## **7. Improving Ethical Behavior**
+**Challenge:**
 * Pressure to meet targets can lead to **unethical decisions**.
 * Managing ethics across cultures is complex.
-
-**🔹 Opportunity:**
+    
+**Opportunity:**
 * OB helps create an **ethical organizational culture**, **clear values**, and **responsible leadership**.
 
-
-
-### ❤️ **8. Managing Employee Well-being and Work–Life Balance**
-
-**🔹 Challenge:**
+### **8. Managing Employee Well-being and Work–Life Balance**
+**Challenge:**
 * High stress, long hours, and burnout reduce performance.
-* 
-**🔹 Opportunity:**
+   
+**Opportunity:**
 * OB concepts like **stress management**, **supportive leadership**, and **flexible work policies** help improve well-being.
 
----
