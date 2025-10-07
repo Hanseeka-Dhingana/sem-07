@@ -5,7 +5,7 @@ Job attitudes are the positive or negative feelings employees have toward variou
 
 <br>  
 
-## **Three Components of an Attitude (The ABC Model)**
+## **Three Components of an Attitude (The CAB Model)**
 
 Attitudes are **evaluative statements**—they express how we feel about people, objects, or events.
 *For example:*
