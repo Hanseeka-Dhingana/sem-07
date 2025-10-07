@@ -238,8 +238,6 @@ Rate each from 1–5:
 **When to use**   
 * When you want to find root causes and build targeted interventions (e.g., fix pay or promotion systems).
 
----
-
 #### Which method is better?   
 * **Intuition:** facets should be more accurate because they capture specifics.
 * **Research:** surprisingly, a **single global item often performs about as well** as the summation method for predicting broad outcomes (e.g., turnover, performance). That’s why both methods are used in practice.
@@ -286,4 +284,231 @@ Example: An employee experiencing racial discrimination will likely feel unhappy
 - Supervisor quality / leader-member exchange: How supervisors treat employees strongly affects satisfaction. If managers are fair, supportive, and communicate well, employees are more satisfied.   
 Example: A manager who mentors staff, gives recognition, and listens increases their team’s satisfaction.
 
+
+### 2. Personality and individual differences
+People are different, so the same job affects people differently.
+
+- Intelligence & job complexity: Intelligent people often prefer complex jobs. If their job matches that need, they are more satisfied.   
+Example: An intelligent person placed in repetitive data entry will be bored and unhappy; put them in analysis work and satisfaction rises.
+
+- Person–job fit: When a person’s interests and skills match the job (e.g., an artistic person in an artist role), satisfaction is higher.    
+Example: Someone who loves art will feel satisfied as a graphic designer but unhappy as an accountant.
+
+### 3. Pay (salary) and comparisons about pay
+Money matters, but not in a simple way.
+
+- Pay level matters, but only up to a point. People need a comfortable standard of living; beyond that, more money has smaller effects on satisfaction.   
+Example: Getting a raise from very low wages to a living wage can greatly increase happiness. A multimillion-dollar increase for someone already wealthy usually changes happiness little.
+
+- Relative pay (comparison) matters. People compare with peers. If you earn less than colleagues doing the same job, satisfaction can drop.  
+Example: Two nurses earn the same, but one finds out a colleague with similar experience earns more → the first nurse feels unfairly treated and becomes dissatisfied.
+
+- Pay motivates behavior but doesn’t always make people happy. Money can get people to work harder (motivation) but it doesn’t always create deep job satisfaction if other job conditions are poor.   
+Example: A well-paid investment banker may still be unhappy because of long hours and stressful culture; a modestly-paid teacher may be very satisfied due to meaningful work.
+
+<br> 
+
+## **Outcomes of Job Satisfaction**
+Job satisfaction doesn’t just make people feel good. It actually affects how they work, how they treat others, and how they feel about life overall.
+Researchers have found that when employees are satisfied, organizations perform better.
+
+### There are four main outcomes of job satisfaction:
+#### **1.Job Performance** 
+> Happy workers tend to be more productive workers.      
+When employees are satisfied with their job meaning they enjoy the work, respect their boss, and feel valued. They’re more motivated, focused, and creative.
+This leads to better performance, higher quality work, and more innovation.
+
+*Example:*   
+Google company consistently ranks among the best companies to work for.
+Why? Because it focuses heavily on employee satisfaction flexible hours, creative freedom, learning opportunities, and supportive managers.   
+
+*Result:*    
+- Developers and engineers feel happy and empowered.
+- They perform better creating innovative products like Gmail, Google Maps, and AI tools.
+- So, high job satisfaction → high job performance → company success.
+
+#### **2.Organizational Citizenship Behavior (OCB)**
+> **Satisfied employees go “above and beyond” their job requirements.**
+
+**OCB (Organizational Citizenship Behavior)** means employees:  
+* Help coworkers voluntarily,
+* Speak positively about the company,
+* Stay late to finish urgent work,
+* Support new employees,
+* Care about the organization’s reputation.
+
+Job satisfaction encourages this because:
+
+* Satisfied employees **trust their managers**,
+* Feel **loyal to the organization**, and
+* Have **positive relationships** with coworkers.
+
+They don’t just do their job — they **act like owners** of the company.
+
+*Example*   
+At Microsoft, satisfied engineers often volunteer to mentor interns, contribute to open-source projects, or help teammates with debugging even if it’s not in their job description.
+This teamwork spirit improves the entire company culture.
+- When employees are happy and feel trusted, they help more and managers, in return, trust them more. It creates a **positive loop of cooperation and trust.**
+
+#### Customer Satisfaction 
+> **Satisfied employees create satisfied customers.**
+
+When employees are happy, they:
+
+* Treat customers better,
+* Show more patience,
+* Go the extra mile to solve problems,
+* Create better user experiences (especially in tech or service jobs).
+  
+In contrast, unhappy employees often show frustration, impatience, or carelessness, which makes customers unhappy.
+
+*Example*    
+Zappos(Online Retailer) became famous for **employee happiness = customer happiness**.
+
+They even pay new hires **$2,000 to quit after training** if they’re not happy, because they only want satisfied people serving customers.
+Zappos customer service agents are encouraged to be fun, kind, and creative. That’s why **75% of customers are repeat buyers**!
+
+
+#### Life Satisfaction
+
+> **Job satisfaction and life satisfaction are closely connected.**
+
+Your job is a big part of your life where you spend most of your day.
+So if you’re happy at work, it naturally increases your **overall life happiness**.
+If you hate your job, it negatively affects your **mood, energy, and relationships** outside work.
+
+Also, losing a job or being in an unhappy job reduces life satisfaction not just because of money, but because work gives people a **sense of purpose and identity**.
+
+*Example* 
+**A Software Engineer at Spotify**  
+* When engineers at Spotify feel valued, have creative freedom, and enjoy teamwork, they go home feeling fulfilled and proud.
+* Their job satisfaction spills into life they’re more positive with family and friends.
+
+On the other hand:
+
+* A developer working in a toxic startup with no work-life balance or respect may feel constantly stressed and unhappy even at home. Itlowering overall life satisfaction.
+
+
+
+## The Impact of Job Dissatisfaction
+
+When employees don’t like their jobs, it affects not only their own mood and performance but also the organization’s success.
+They may react in different ways — some positive, some negative.
+
+To understand these reactions, OB researchers developed the **Exit–Voice–Loyalty–Neglect (EVLN) Framework.**
+It shows the four main ways employees respond when they feel dissatisfied at work.      
+
+<br>    
+
+<img width="1491" height="846" alt="image" src="https://github.com/user-attachments/assets/ab8cdff3-d629-4c34-b189-3353c58640fa" />    
+
+<br>  
+
+### 1.Exit – Leaving the Organization
+When employees are unhappy and see no hope for improvement, they choose to quit or look for new jobs.
+
+This can be measured by turnover, how many people leave a company over time.
+When skilled employees leave, organizations lose knowledge, skills, and talent.  
+*Example*  
+At Meta (Facebook), during the “quiet quitting” wave in 2022, many employees were dissatisfied with constant restructuring and high work pressure.
+As a result, a large number resigned and moved to startups or other tech firms.
+
+This “exit” hurt Meta because:
+- The company lost experienced software engineers.
+- Productivity decreased.
+- Hiring and training new employees cost time and money.
+> **Exit = Active but destructive,** because employees take action but it harms the company.
+
+
+### 2.Voice – Speaking Up to Improve Conditions
+Instead of quitting, some employees try to fix problems.
+They raise their concerns, give feedback, suggest ideas, or join unions to make things better.
+
+*Example:*   
+At Google, employees once protested the company’s involvement in a military AI project called Project Maven.
+They didn’t quit — they voiced their dissatisfaction by organizing discussions, writing open letters, and suggesting ethical policies for AI usage.   
+
+*Result:*  
+- Google canceled the project contract.
+- The company introduced stronger AI ethics guidelines.
+> It’s active and constructive, because they want positive change.
+
+
+### 3.Loyalty – Waiting and Hoping for Improvement
+Some employees stay loyal even when they’re unhappy.
+They don’t complain or quit they trust the company will fix the problems and wait patiently for things to get better.
+- They may even defend the company when others criticize it.   
+*Example:*   
+At Twitter (before Elon Musk’s takeover), many long-term employees stayed loyal even though they disagreed with new policies and layoffs.
+They hoped things would stabilize, defended the company online, and waited for leadership changes to bring improvement.
+
+> Loyalty = Passive but constructive — they don’t act immediately, but they don’t harm the company either.
+
+
+### 4.Neglect – Ignoring Work and Letting Things Get Worse
+When dissatisfaction increases, employees stop caring.
+They become lazy, late, careless, or absent often.
+They allow their performance or the organization’s situation to worsen over time.
+
+*Example:*   
+Imagine a developer at Amazon who feels overworked and ignored by their manager.
+They stop attending meetings, submit buggy code, or scroll on social media during work hours.
+
+> Neglect = Passive and destructive, because it silently damages performance and morale.
+
+### Counterproductive Work Behavior (CWB)  
+
+When dissatisfaction gets worse, employees sometimes act out through negative or harmful behaviors this is called Counterproductive Work Behavior (CWB).
+
+CWB means any intentional behavior that harms the organization or its members.
+It’s also called deviant behavior or employee withdrawal.
+
+*Examples of CWB:*
+- Stealing office items or company data
+- Gossiping or spreading negativity
+- Coming late or being absent frequently
+- Wasting time on social media
+- Arguing with coworkers
+- Refusing to cooperate
+- Sabotaging work intentionally
+
+*Example:*   
+At Uber (2017), employees faced a toxic environment — long hours, lack of respect, and unfair leadership.
+As dissatisfaction grew:
+- Some employees started badmouthing the company online.
+- Others wasted work time or were rude to customers and colleagues.
+- Some even quit in frustration.
+
+This damaged Uber’s public image and forced the company to completely rebuild its culture.    
+
+*Lesson:*  
+CWB happens when people feel frustrated and powerless.
+Instead of solving the problem, they “get even” through small harmful actions.    
+
+
+### Absenteeism (Being Absent Often)
+Dissatisfied employees are more likely to skip work or take unnecessary leaves.
+But the relationship is not always strong — it depends on other factors.   
+
+*Examples:*   
+- If employees can easily find another job, they take more leaves.
+- If they feel guilty for being absent, they stay even if they’re unhappy.  
+
+*Example:*   
+At Microsoft, after introducing flexible remote work, absenteeism dropped because employees could take breaks when needed instead of skipping full days.
+When companies ignore flexibility, absenteeism rises due to dissatisfaction.
+
+### Turnover (Leaving the Job)
+Job dissatisfaction is the strongest predictor of employee turnover.
+Unhappy workers eventually leave the company.   
+*Factors Affecting Turnover:*    
+- **Alternative jobs:** When new job offers are available, employees are more likely to leave.
+- **Human capital:** Skilled or educated workers (like software engineers) have more options, so they quit more easily.
+- **Job insecurity:** Even satisfied employees may leave if they feel unsafe about their job.
+- **Workplace contagion:** If many coworkers are unhappy and leaving, others are influenced to leave too.
+- **Embeddedness:** Strong social and community ties make employees stay longer — even if they’re a little dissatisfied.   
+
+*Example:*  
+In 2023, many employees at Amazon Web Services (AWS) left due to dissatisfaction with long hours and low promotions.
+But some stayed because they were embedded meaning they had strong local ties, friendships, and benefits they didn’t want to lose.
 
